@@ -1,2 +1,3 @@
 Welcome to Git session
-Hope you are able to understand
+Hope you are able to understand.
+Good morning.
