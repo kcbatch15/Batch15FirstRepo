@@ -1,3 +1,4 @@
 Welcome to Git session
 Hope you are able to understand.
 Good morning. Modified develop branch. Merging from develop to cdt branch.
+Testing git stash.
